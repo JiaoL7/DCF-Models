@@ -1,2 +1,2 @@
 # DCF-Models
-This folder consists of custom built Discounted Cash Flow models that include multiple scenarios (Based/Street, Conservative, Optimistic &amp; Manual Case). I welcome all questions, feedback, and constructive criticism. Modifiable variables are unlocked. Feel free to reach out to me if you have any request to value a specific stock. Have Fun! 
+This folder consists of custom built Discounted Cash Flow models that include multiple scenarios (Based/Street, Conservative, Optimistic & Manual Case). Feel free to change the assumptions to your liking and modifiable cells are unlocked. I welcome all questions, feedback, and constructive criticism. Please don't hesitate to reach out if you have any request to value a specific stock. Have Fun! 
